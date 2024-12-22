@@ -1,6 +1,6 @@
 **[To return to the previous page, click here](https://github.com/nftauthme/multi-chain-token-tracker/).**
 
-**Terms of Service nftauth.me**
+**Terms of Service for nftauth.me**
 
 _Last Updated: 22 December 2024_
 
