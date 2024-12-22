@@ -33,15 +33,13 @@ Experience the live application at: [nftauth.me](https://nftauth.me)
 
 ## Legal Documents
 
-[TERMS OF SERVICE](https://nftauth.me)
+[TERMS OF SERVICE](https://github.com/nftauthme/multi-chain-token-tracker/blob/main/legal-documents/TERMS%20OF%20SERVICE.MD)
 
-[END USER LICENSE AGREEMENT](https://nftauth.me)
+[END USER LICENSE AGREEMENT](https://github.com/nftauthme/multi-chain-token-tracker/blob/main/legal-documents/EULA.MD)
 
-[PRIVACY POLICY](https://nftauth.me)  
+[PRIVACY POLICY](https://github.com/nftauthme/multi-chain-token-tracker/blob/main/legal-documents/PRIVACY%20POLICY.MD)
 
-[REFUND POLICY](https://nftauth.me)
-
-We comply with Dutch tax laws and report the income from the sale of NFTs as **"Overige Inkomsten"** (Other Income). 
+We comply with Dutch tax laws and report the income from the sales as **"Overige Inkomsten"** (Other Income). 
 
 
 
