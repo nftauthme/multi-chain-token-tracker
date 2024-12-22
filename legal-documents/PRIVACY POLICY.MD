@@ -2,7 +2,7 @@
 
 **Privacy Policy for nftauth.me**
 
-_Last Updated: 22 December 2024_
+_Effective date: 1 January 2025_
 
 Your privacy is critically important to us. At **nftauth.me**, we are committed to protecting your personal information and your right to privacy. This Privacy Policy outlines how we handle your data when you use our website and services (the "Service").  
 
