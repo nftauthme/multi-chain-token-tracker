@@ -2,7 +2,7 @@
 
 **End User License Agreement (EULA) for nftauth.me**
 
-_Effective date: 1 January 2025_
+_Last updated: 22 December 2024_
 
 By accessing or using **nftauth.me** and its services, including the use of license numbers for premium features, you agree to the following terms and conditions of this **End User License Agreement** ("Agreement"). If you do not agree to these terms, please do not use the Service.
 
