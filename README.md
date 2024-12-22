@@ -27,9 +27,9 @@ To purchase a membership and support project development, please contact us at *
 
 **No crypto wallet or experience is required** to participate—everything is handled seamlessly to ensure an easy and accessible process for all users. We are truly grateful for your support in helping us grow!
 
-## App  
+## Web App  
 
-Experience the live application at: [nftauth.me](https://nftauth.me) 
+Explore the live application here: [nftauth.me](https://nftauth.me) 
 
 ## Legal Documents
 
