@@ -23,7 +23,7 @@ When using the Service, you agree not to:
 - Use the Service to engage in fraudulent, deceptive, or malicious activities. 
 
 **5. Intellectual Property**  
-All content provided through the Service, including but not limited to text, graphics, logos, and software, is the property of nftauth.me or its licensors and is protected by copyright and trademark laws. You may not reproduce, distribute, or create derivative works of any content without prior written permission.
+All content provided through the Service, including but not limited to text, graphics, logos, and web app, is the property of nftauth.me or its licensors and is protected by copyright and trademark laws. You may not reproduce, distribute, or create derivative works of any content without prior written permission.
 
 **6. Limitation of Liability**  
 To the fullest extent permitted by law, nftauth.me shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use the Service, even if advised of the possibility of such damages.
