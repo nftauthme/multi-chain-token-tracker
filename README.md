@@ -10,7 +10,7 @@ Email: nftauth@proton.me
 ## Features  
 
 **Multi-Chain Support**:  
-  Tracks ERC-20 tokens on major blockchains, including: Ethereum, Base, Binance Smart Chain, Polygon, Avalanche, Fantom, Arbitrum, Optimism
+  Tracks ERC-20 tokens on major blockchains, including: Ethereum, Base, Binance Smart Chain, Polygon, Avalanche, Fantom, Arbitrum and Optimism
 
 **Real-Time Updates**:  
   Instantly displays new tokens and updates details the moment they are deployed.  
