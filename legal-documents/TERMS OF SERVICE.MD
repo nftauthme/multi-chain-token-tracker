@@ -22,25 +22,22 @@ When using the Service, you agree not to:
 - Attempt to gain unauthorized access to the Service or its related systems.  
 - Use the Service to engage in fraudulent, deceptive, or malicious activities. 
 
-**5. Intellectual Property**  
-All content provided through the Service, including but not limited to text, graphics, logos, and web app, is the property of nftauth.me or its licensors and is protected by copyright and trademark laws. You may not reproduce, distribute, or create derivative works of any content without prior written permission.
-
-**6. Limitation of Liability**  
+**5. Limitation of Liability**  
 To the fullest extent permitted by law, nftauth.me shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use the Service, even if advised of the possibility of such damages.
 
-**7. Disclaimer of Warranties**  
+**6. Disclaimer of Warranties**  
 The Service is provided "as is" and "as available" without any warranties of any kind, express or implied.
 
-**8. Modifications to Terms**  
+**7. Modifications to Terms**  
 We reserve the right to modify these Terms at any time. Any changes will be effective immediately upon posting the revised Terms. Your continued use of the Service constitutes acceptance of the updated Terms.
 
-**9. Governing Law**  
+**8. Governing Law**  
 These Terms shall be governed by and construed in accordance with the laws of the Netherlands. Any disputes arising out of or related to these Terms shall be subject to the exclusive jurisdiction of the courts in the Netherlands.
 
-**10. Contact Information**  
+**9. Contact Information**  
 For questions, concerns, or more information about these Terms, please contact us at nftauth@proton.me.
 
-**11. Legal Compliance**  
+**10. Legal Compliance**  
 We comply with all applicable Dutch laws, including tax reporting for memberships and NFT-related revenue under **"Overige Inkomsten"** (Other Income).
 
 By using our Service, you acknowledge that you have read, understood, and agreed to these Terms of Service.
