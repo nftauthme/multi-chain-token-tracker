@@ -2,4 +2,4 @@
 
 **Developer identity verification for nftauth.me**
 
-Document to be added soon.
+Document will be added soon.
