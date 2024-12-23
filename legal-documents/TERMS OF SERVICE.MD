@@ -35,7 +35,7 @@ We reserve the right to modify these Terms at any time. Any changes will be effe
 These Terms shall be governed by and construed in accordance with the laws of the Netherlands. Any disputes arising out of or related to these Terms shall be subject to the exclusive jurisdiction of the courts in the Netherlands.
 
 **9. Contact Information**  
-For questions, concerns, or more information about these Terms, please contact us at nftauth@proton.me.
+For questions, concerns, or more information about these Terms, please contact us at legal@nftauth.me.
 
 **10. Legal Compliance**  
 We comply with all applicable Dutch laws, including tax reporting for memberships and NFT-related revenue under **"Overige Inkomsten"** (Other Income).
