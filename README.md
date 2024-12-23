@@ -23,7 +23,7 @@ Email: nftauth@proton.me
 
 ## Early Access
 
-To purchase a membership and support project development, please contact us at **nftauth@proton.me**. Once you purchase, you will receive our project **NFT**, which will later be used to access the **private dashboard** and unlock exclusive features. This NFT serves as your verification key for future developments within the platform.  
+To purchase a membership and support project development, please contact us at **nftauth@proton.me**. Once you purchase, you will receive our project **NFT Membership Pass**, which will later be used to access the **private dashboard** and unlock exclusive features. This NFT serves as your verification key for future developments within the platform.  
 
 **No crypto wallet or experience is required** to participate—everything is handled seamlessly to ensure an easy and accessible process for all users. We are truly grateful for your support in helping us grow!
 
