@@ -33,7 +33,7 @@ This Agreement and your license will remain in effect until terminated. **nftaut
 To the maximum extent permitted by law, **nftauth.me** shall not be liable for any indirect, incidental, special, or consequential damages arising from the use or inability to use the Service, even if advised of the possibility of such damages. Your sole remedy for dissatisfaction with the Service is to stop using the Service.
 
 **8. Disclaimer of Warranties**  
-The Service is provided "as is," without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement. **nftauth.me** does not warrant that the Service will meet your requirements or be error-free.
+The Service is provided "as is" and "as available" without any warranties of any kind, express or implied.
 
 **9. Governing Law**  
 This Agreement shall be governed by and construed in accordance with the laws of the Netherlands. Any disputes arising out of or related to this Agreement will be subject to the exclusive jurisdiction of the courts in the Netherlands.
