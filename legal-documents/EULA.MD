@@ -42,6 +42,6 @@ This Agreement shall be governed by and construed in accordance with the laws of
 **nftauth.me** reserves the right to modify or update this Agreement at any time. Any changes will be posted on our Github repository and will become effective immediately upon posting. Your continued use of the Service after such changes will constitute your acceptance of the modified Agreement.
 
 **11. Contact Information**  
-For any questions or concerns regarding this Agreement, please contact us at nftauth@proton.me
+For any questions or concerns regarding this Agreement, please contact us at legal@nftauth.me
 
 By using the Service, you acknowledge that you have read, understood, and agreed to the terms of this End User License Agreement.
