@@ -26,7 +26,7 @@ We use industry-standard security measures to protect your data from unauthorize
 - **California Consumer Privacy Act (CCPA)**: If you are a resident of California, you have the right to know what personal data we collect, request its deletion, and opt out of its sale (note: we do not sell personal data).  
 - **California Privacy Rights Act (CPRA)**: As a California resident, you have additional rights, including the right to limit the use of your sensitive personal data.  
 
-To exercise any of these rights, please contact us at **nftauth@proton.me**.  
+To exercise any of these rights, please contact us at **legal@nftauth.me**.  
 
 **5. Data Retention**  
 We will retain your email address for as long as necessary to fulfill the purposes outlined in this policy or as required by applicable laws and regulations.  
@@ -35,6 +35,6 @@ We will retain your email address for as long as necessary to fulfill the purpos
 We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. We encourage you to review this page periodically to stay informed about how we are protecting your data.  
 
 **7. Contact Information**  
-If you have any questions about this Privacy Policy or wish to exercise your rights, please contact us at nftauth@proton.me.
+If you have any questions about this Privacy Policy or wish to exercise your rights, please contact us at legal@nftauth.me.
 
 By using our Service, you agree to this Privacy Policy and the practices described herein.
