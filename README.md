@@ -39,7 +39,7 @@ Explore the live application here: [nftauth.me](https://nftauth.me)
 
 [PRIVACY POLICY](https://github.com/nftauthme/multi-chain-token-tracker/blob/main/legal-documents/PRIVACY%20POLICY.MD)
 
-Developer identity is verified through a digitally signed ownership document authenticated with a digital signature certificate from certilia.com. This ensures trust, transparency, and credibility for the project. [Click here for verification](https://github.com/nftauthme/multi-chain-token-tracker/blob/main/legal-documents/DEVELOPER%20IDENTITY%20VERIFICATION.MD)
+Developer identity is verified through a digitally signed ownership document authenticated with a digital signature certificate from certilia.com. This ensures trust, transparency, and credibility for the project. [Click here for developer identity verification](https://github.com/nftauthme/multi-chain-token-tracker/blob/main/legal-documents/DEVELOPER%20IDENTITY%20VERIFICATION.MD)
 
 We comply with Dutch tax laws and report the income from the sales as **"Overige Inkomsten"** (Other Income). 
 
